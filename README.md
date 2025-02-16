@@ -73,6 +73,7 @@ Após instalar e executar o dBeaver, siga os passos abaixo para configurar uma n
 
 7. **Acessar o Banco de Dados**:
    - Na lista de conexões, localize a conexão que você acabou de criar e clique nela para abrir. Siga a imagem abaixo:
+
      ![Estrutura do Banco de Dados](img1.jpeg)
    - Após isso, clique na tabela que deseja ver e em **"Dados"** para visualizar os dados (lembre-se de pressionar **F5** sempre que fizer uma requisição).
      ![Visualização dos Dados](img2.jpeg)
