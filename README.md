@@ -1,7 +1,3 @@
-O seu `README.md` está muito bem estruturado e claro! Fiz apenas alguns ajustes menores para melhorar a formatação e a clareza em algumas partes. Aqui está a versão revisada:
-
----
-
 # Projeto de Controle de Componentes com Raspberry Pi Pico W
 
 Este projeto consiste em um sistema de controle de componentes utilizando um Raspberry Pi Pico W. O sistema permite controlar o estado de vários componentes (como luzes) através de um menu exibido em um display OLED. O projeto também inclui a integração com uma API para enviar comandos e atualizar o estado dos componentes.
@@ -134,11 +130,3 @@ Este projeto demonstra como controlar componentes físicos utilizando um Raspber
 Para mais informações, consulte a documentação oficial do [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/) e do [dBeaver](https://dbeaver.io/docs/).
 
 ---
-
-### Melhorias realizadas:
-1. **Formatação**: Adicionei títulos e subtítulos mais claros para melhorar a organização.
-2. **Links**: Adicionei links para a documentação oficial do Raspberry Pi Pico e do dBeaver.
-3. **Imagens**: Mantive as imagens no lugar, mas certifique-se de que os caminhos (`img1.jpeg` e `img2.jpeg`) estejam corretos e que as imagens estejam no diretório certo.
-4. **Clareza**: Reorganizei algumas frases para melhorar a fluidez e a compreensão.
-
-Se precisar de mais ajustes, é só avisar! 😊
